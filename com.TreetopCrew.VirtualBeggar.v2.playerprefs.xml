@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="AdFree" value="1" />
+    <string name="unity.player_sessionid">3894069384013743421</string>
+    <int name="TutorialPalkattu" value="1" />
+    <int name="MinipeliPelattu72" value="1" />
+    <int name="hattu11" value="1" />
+    <int name="MinipeliPelattu71" value="1" />
+    <int name="VarastoTutorial" value="50" />
+    <int name="Prestige2" value="1" />
+    <int name="nMatkaPaikka" value="-1" />
+    <int name="FBTietojaPaivitetty" value="1" />
+    <int name="Prestige3" value="2" />
+    <int name="AiempiLevel" value="50" />
+    <int name="Prestige0" value="0" />
+    <int name="Prestige1" value="0" />
+    <int name="Sfx" value="1" />
+    <int name="housut17" value="1" />
+    <int name="AutoaikaJaljella" value="1722" />
+    <int name="MyytavaEtuliite6" value="1" />
+    <int name="MyytavaEtuliite5" value="3" />
+    <int name="MyytavaEtuliite4" value="1" />
+    <int name="MyytavaEtuliite3" value="1" />
+    <int name="MyytavaEtuliite2" value="3" />
+    <int name="MyytavaEtuliite1" value="1" />
+    <int name="MyytavaEtuliite0" value="1" />
+    <int name="PongVoitot" value="0" />
+    <int name="NykyinenSisustus_2" value="0" />
+    <int name="NykyinenSisustus_3" value="0" />
+    <int name="NykyinenSisustus_0" value="0" />
+    <int name="NykyinenSisustus_1" value="0" />
+    <int name="PrestigetYht" value="1" />
+    <int name="Sisustus_5_0" value="1" />
+    <string name="MyytavaNimi2">Raymond</string>
+    <int name="paita43" value="1" />
+    <string name="MyytavaNimi1">Emily</string>
+    <string name="MyytavaNimi0">Suzanne</string>
+    <string name="MyytavaNimi6">Don</string>
+    <string name="MyytavaNimi5">Virginia</string>
+    <int name="edellinenPaiva" value="38" />
+    <int name="NykyinenSisustus_4" value="2" />
+    <string name="MyytavaNimi4">Emma</string>
+    <int name="NykyinenSisustus_5" value="0" />
+    <string name="MyytavaNimi3">Joel</string>
+    <int name="paita49" value="1" />
+    <int name="Sisustus_1_0" value="1" />
+    <int name="JuuriOtettuPrestigeC" value="1" />
+    <int name="AloitettuV301" value="1" />
+    <int name="Huonetila2" value="1" />
+    <int name="Huonetila3" value="0" />
+    <string name="MainTaskID">43_88542</string>
+    <int name="parta9" value="1" />
+    <int name="Huonetila1" value="1" />
+    <int name="hattu33" value="1" />
+    <int name="PaivatSeuraavaanOfferiin" value="5" />
+    <int name="paita10" value="1" />
+    <int name="Slices" value="0" />
+    <int name="paita95" value="1" />
+    <int name="OstettiinEdellisessa" value="0" />
+    <int name="paita18" value="1" />
+    <int name="kengat13" value="1" />
+    <int name="paita15" value="1" />
+    <int name="Sisustus_1_14" value="1" />
+    <string name="KerjalaisenVaatekoodi">57%2C17%2C29%2C0%2C-1%2C1%2C5%2C0</string>
+    <int name="MainTask" value="1" />
+    <int name="MinipeliPelattu3" value="1" />
+    <int name="MinipeliPelattu1" value="1" />
+    <int name="MinipeliPelattu2" value="1" />
+    <int name="MinipeliPelattu0" value="1" />
+    <int name="parta13" value="1" />
+    <int name="hattu29" value="1" />
+    <int name="Taskeja" value="2" />
+    <int name="hattu28" value="1" />
+    <int name="hattu25" value="1" />
+    <int name="Musiikki" value="1" />
+    <int name="Sisustus_4_1" value="1" />
+    <int name="hattu22" value="1" />
+    <int name="Sisustus_4_0" value="1" />
+    <int name="OstojaYhteensa" value="0" />
+    <int name="lasit3" value="1" />
+    <string name="unity.cloud_userid">6559bfe96721a48a9832c1c9623916e9</string>
+    <int name="kengat18" value="1" />
+    <int name="lasit0" value="1" />
+    <int name="TaskPisteet0K" value="0" />
+    <int name="Sisustus_4_2" value="1" />
+    <string name="rLista2">Water</string>
+    <int name="Sisustus_0_0" value="1" />
+    <int name="paita25" value="1" />
+    <string name="rLista0">Sausages</string>
+    <string name="rLista1">Cereals</string>
+    <int name="PaivanTaskit" value="1" />
+    <int name="RahaaKaytettyK" value="1" />
+    <int name="parta5" value="1" />
+    <int name="parta1" value="1" />
+    <int name="OfferTyyppi" value="0" />
+    <int name="parta4" value="1" />
+    <int name="JackOmaScore" value="0" />
+    <int name="special_offer_1_Ostettu" value="0" />
+    <int name="AmmattiUnlocked4" value="0" />
+    <int name="AmmattiUnlocked3" value="0" />
+    <int name="BussimatkaYhteensa" value="0" />
+    <int name="AmmattiUnlocked6" value="0" />
+    <int name="AmmattiUnlocked5" value="0" />
+    <int name="MatkaaJaljella" value="0" />
+    <int name="AmmattiUnlocked0" value="1" />
+    <int name="TaskPisteet0" value="1" />
+    <int name="AmmattiUnlocked2" value="0" />
+    <int name="AmmattiUnlocked1" value="0" />
+    <int name="MyytavaAmmattiNro3" value="12" />
+    <int name="MyytavaAmmattiNro2" value="2" />
+    <int name="paita73" value="1" />
+    <int name="MyytavaAmmattiNro5" value="5" />
+    <int name="paita74" value="1" />
+    <int name="MyytavaAmmattiNro4" value="12" />
+    <int name="paita71" value="1" />
+    <int name="paita72" value="1" />
+    <int name="MyytavaAmmattiNro6" value="8" />
+    <int name="PowerupNopeammin" value="1" />
+    <int name="paita70" value="1" />
+    <int name="lasit6" value="1" />
+    <int name="lasit4" value="1" />
+    <string name="MyytavaVaatekoodi0">67%2C24%2C42%2C-45%2C2%2C2%2C1%2C0</string>
+    <int name="SideTaskit" value="1" />
+    <int name="RahaaKaytetty" value="2264" />
+    <string name="MyytavaVaatekoodi6">11%2C9%2C2%2C-58%2C2%2C17%2C8%2C0</string>
+    <string name="MyytavaVaatekoodi5">64%2C0%2C14%2C-59%2C5%2C11%2C13%2C2</string>
+    <string name="MyytavaVaatekoodi2">8%2C7%2C9%2C-14%2C7%2C28%2C3%2C0</string>
+    <string name="MyytavaVaatekoodi1">68%2C25%2C45%2C-9%2C2%2C24%2C4%2C0</string>
+    <int name="TutorialBalloonPainettu" value="1" />
+    <string name="MyytavaVaatekoodi4">68%2C25%2C45%2C-1%2C28%2C23%2C15%2C0</string>
+    <string name="MyytavaVaatekoodi3">68%2C25%2C44%2C0%2C-9%2C27%2C15%2C0</string>
+    <int name="paivatPutkeen" value="0" />
+    <int name="FBTykkays" value="2" />
+    <int name="paita5" value="1" />
+    <int name="UudetPrestiget" value="1" />
+    <string name="EdellisenOstonAika">-8585888553654794598</string>
+    <int name="Sisustus_3_0" value="1" />
+    <int name="Exp" value="0" />
+    <int name="SarasvuoLevel" value="0" />
+    <int name="KirjastossaVierailtu" value="1" />
+    <int name="edellinenVuosi" value="2021" />
+    <string name="sysString">-8585888547983908138</string>
+    <int name="KolikoitaHeitetty" value="136" />
+    <int name="MyytavaAmmattiNro1" value="12" />
+    <int name="MyytavaAmmattiNro0" value="9" />
+    <int name="SlicesK" value="0" />
+    <int name="AikaSeurMainokseen" value="0" />
+    <int name="AmmattiUnlocked8" value="0" />
+    <int name="AmmattiUnlocked7" value="0" />
+    <int name="AmmattiUnlocked9" value="0" />
+    <int name="kengat6" value="1" />
+    <int name="PPrefsUsingTheNewSystem" value="1" />
+    <int name="vartalo0" value="1" />
+    <int name="vartalo1" value="1" />
+    <int name="Matkalla" value="0" />
+    <int name="OfferBoxInd" value="0" />
+    <int name="GoldenFreeUsed" value="0" />
+    <int name="VCKaytetty" value="1" />
+    <int name="kengat2" value="1" />
+    <int name="kengat1" value="1" />
+    <int name="PrestigeMaxPoints" value="3" />
+    <int name="Level" value="1" />
+    <int name="AmmattiUnlocked10" value="0" />
+    <int name="AmmattiUnlocked11" value="0" />
+    <int name="paita57" value="1" />
+    <int name="paita55" value="1" />
+    <int name="EnnatysCPMK" value="0" />
+    <int name="AmmattiUnlocked16" value="0" />
+    <int name="Tutorial" value="50" />
+    <int name="vartalo2" value="1" />
+    <int name="vartalo3" value="1" />
+    <int name="MyynnissaOlevat" value="7" />
+    <int name="AmmattiUnlocked12" value="0" />
+    <int name="AmmattiUnlocked13" value="0" />
+    <int name="AmmattiUnlocked14" value="0" />
+    <int name="AmmattiUnlocked15" value="0" />
+    <int name="UudetOfferitYht" value="0" />
+    <int name="Notification2" value="1" />
+    <int name="Notification1" value="1" />
+    <int name="TuplapalkkaaJaljella" value="0" />
+    <int name="Setelit" value="1000000047" />
+    <int name="Sisustus_2_0" value="1" />
+    <int name="paita63" value="1" />
+    <int name="special_offer_1_Aikaa" value="172314" />
+    <int name="hattu0" value="1" />
+    <int name="EnnatysCPM" value="24418" />
+    <int name="PeliRatettu" value="2" />
+    <int name="ExpK" value="0" />
+</map>
