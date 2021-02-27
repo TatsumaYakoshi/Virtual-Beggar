@@ -1,0 +1,241 @@
+<? xml version = '1.0' encoding = 'utf-8' standalone = 'yes'?>
+ <map>
+     <int name = "glasses16" value = "1" />
+     <int name = "hat29" value = "1" />
+     <int name = "PrestigetYht" value = "99" />
+     <int name = "hat28" value = "1" />
+     <int name = "Educated3" value = "0" />
+     <int name = "Educated2" value = "0" />
+     <int name = "hat26" value = "1" />
+     <int name = "Educated1" value = "0" />
+     <string name = "rLista1"> Fresh% 20fruits </string>
+     <string name = "rLista2"> Tomato% 20juice </string>
+     <int name = "hat3333" value = "1" />
+     <int name = "TaskInd2" value = "6" />
+     <int name = "glasses19" value = "1" />
+     <int name = "glasses18" value = "1" />
+     <int name = "MyContactors" value = "0" />
+     <int name = "Tutorial" value = "50" />
+     <int name = "kengat6" value = "1" />
+     <int name = "Room2" value = "1" />
+     <int name = "Room1" value = "1" />
+     <int name = "For SaleProfessNo3" value = "3" />
+     <int name = "TutorialStarted" value = "1" />
+     <int name = "For SaleProfessNo4" value = "5" />
+     <int name = "ProfessionNo5 for sale" value = "7" />
+     <int name = "nTravelPlace" value = "- 1" />
+     <int name = "Interior_1_14" value = "1" />
+     <int name = "For SaleProfessNo6" value = "8" />
+     <string name = "rLista0"> Eggs% 20% 26% 20Cheese </string>
+     <int name = "For SaleProfessNo0" value = "0" />
+     <int name = "For SaleProfessNo1" value = "3" />
+     <int name = "For SaleProfessNo2" value = "4" />
+     <int name = "Interior_1_0" value = "1" />
+     <int name = "shirt25" value = "1" />
+     <int name = "hat2525" value = "1" />
+     <int name = "kengat1" value = "1" />
+     <int name = "Room3" value = "0" />
+     <int name = "hat2222" value = "1" />
+     <int name = "kengat2" value = "1" />
+     <int name = "previousDay" value = "41" />
+     <int name = "StoreEnvironment0" value = "12" />
+     <int name = "Interior_2_11" value = "1" />
+     <int name = "Screenmanager% 20Resolution% 20Height" value = "2178" />
+     <int name = "Started V301" value = "1" />
+     <int name = "SideTaskit" value = "1" />
+     <int name = "PreviousLevel" value = "99" />
+     <int name = "Interior_2_15" value = "1" />
+     <int name = "Interior_3_6" value = "1" />
+     <int name = "Using GooglePlay" value = "1" />
+     <int name = "shirt55" value = "1" />
+     <string name = "Beggar's Clothing Code"> 57% 2C17% 2C29% 2C0% 2C-1% 2C1% 2C5% 2C0 </string>
+     <string name = "TaskPrize2"> 60000% 2C0% 2C4500 </string>
+     <int name = "shirt57" value = "1" />
+     <int name = "PrestigeMaxPoints" value = "3" />
+     <int name = "LibraryVisited" value = "1" />
+     <int name = "CloudLoadTimer" value = "43020" />
+     <int name = "TaskTarget2K" value = "0" />
+     <int name = "Sfx" value = "1" />
+     <int name = "VCUsed" value = "109066" />
+     <int name = "TaskPoints0K" value = "0" />
+     <int name = "glasses20" value = "1" />
+     <int name = "BetaKey" value = "1" />
+     <int name = "Interior_2_0" value = "1" />
+     <int name = "shirt49" value = "1" />
+     <int name = "shirt43" value = "1" />
+     <int name = "Bus TripTotal" value = "0" />
+     <int name = "Slices" value = "67205860" />
+     <int name = "Interior_0_8" value = "1" />
+     <int name = "Coins Discarded" value = "298" />
+     <int name = "Screenmanager% 20Resolution% 20Width" value = "1080" />
+     <int name = "TaskPoints2" value = "1" />
+     <int name = "shirt73" value = "1" />
+     <int name = "shirt72" value = "1" />
+     <int name = "TaskPoints0" value = "1" />
+     <int name = "shirt74" value = "1" />
+     <int name = "body6" value = "1" />
+     <int name = "shirt71" value = "1" />
+     <int name = "body4" value = "1" />
+     <int name = "shirt70" value = "1" />
+     <int name = "body3" value = "1" />
+     <int name = "Mini GamePlayed2" value = "1" />
+     <int name = "body2" value = "1" />
+     <int name = "Mini GamePlayed3" value = "1" />
+     <int name = "body1" value = "1" />
+     <int name = "body0" value = "1" />
+     <int name = "__ UNITY_PLAYERPREFS_VERSION__" value = "1" />
+     <int name = "DefaultCPMK" value = "0" />
+     <int name = "For SalePrefix5" value = "1" />
+     <int name = "For SalePrefix4" value = "3" />
+     <int name = "FBInformationUpdated" value = "50" />
+     <int name = "For SalePrefix6" value = "1" />
+     <int name = "GoldenFreeUsed" value = "0" />
+     <int name = "For SalePrefix1" value = "2" />
+     <int name = "For SalePrefix0" value = "1" />
+     <int name = "For Sale Prefix3" value = "1" />
+     <int name = "Mini GamePlayed0" value = "1" />
+     <int name = "For SalePrefix2" value = "1" />
+     <int name = "Mini GamePlayed1" value = "1" />
+     <int name = "special_offer_1_Purchased" value = "0" />
+     <int name = "shirt63" value = "1" />
+     <int name = "Banknotes" value = "999999999" />
+     <int name = "TutorialEmployed" value = "1" />
+     <int name = "New Prestige" value = "99" />
+     <int name = "FBLike" value = "2" />
+     <int name = "PongKerrat" value = "0" />
+     <int name = "SarasvuoLevel" value = "0" />
+     <int name = "OccupationUnlocked16" value = "0" />
+     <int name = "OccupationUnlocked15" value = "0" />
+     <int name = "CurrentFurnishings_0" value = "8" />
+     <int name = "CurrentFurnishings_2" value = "15" />
+     <int name = "OccupationUnlocked12" value = "0" />
+     <int name = "CurrentFurnishings_1" value = "0" />
+     <int name = "OccupationUnlocked11" value = "0" />
+     <int name = "CurrentDecoration_4" value = "10" />
+     <int name = "OccupationUnlocked14" value = "0" />
+     <int name = "CurrentDecoration_3" value = "10" />
+     <int name = "OccupationUnlocked13" value = "0" />
+     <int name = "CurrentFurnish_5" value = "12" />
+     <int name = "OccupationUnlocked10" value = "0" />
+     <int name = "ElainLevel" value = "12" />
+     <int name = "hat1111" value = "1" />
+     <int name = "shirt95" value = "1" />
+     <int name = "Purchased in previous" value = "2" />
+     <int name = "GameRated" value = "2" />
+     <int name = "shirt93" value = "1" />
+     <int name = "JackOmaScore" value = "0" />
+     <int name = "Interior_3_10" value = "1" />
+     <string name = "Previous Purchase Time"> - 8585889630545360158 </string>
+     <string name = "sysString"> - 8585886219793825558 </string>
+     <int name = "Money Spent" value = "738398483" />
+     <string name = "OmaID"> - MSt5gPL2w13a5Q4U4MJ </string>
+     <int name = "Interior_0_0" value = "1" />
+     <int name = "Interior_0_6" value = "1" />
+     <int name = "Started20" value = "1" />
+     <int name = "OfferType" value = "0" />
+     <int name = "DayTaskets" value = "0" />
+     <string name = "unity.player_sessionid"> 3304810813887995084 </string>
+     <int name = "Interior_4_10" value = "1" />
+     <int name = "DayIntersitial" value = "0" />
+     <int name = "For Sale" value = "7" />
+     <int name = "Tasks" value = "2" />
+     <int name = "Money Spent" value = "2553" />
+     <int name = "Time to Track Ad" value = "0" />
+     <int name = "PreviousTask" value = "- 1" />
+     <int name = "OfferBoxInd" value = "0" />
+     <int name = "TaskTarget2" value = "4" />
+     <int name = "DailyRewardsOther" value = "0" />
+     <int name = "kengat13" value = "1" />
+     <int name = "kengat18" value = "1" />
+     <int name = "Double SalaryFollow" value = "0" />
+     <int name = "daysPipe" value = "0" />
+     <int name = "Music" value = "1" />
+     <int name = "Level" value = "51" />
+     <string name = "For SaleClothing Code1"> 62% 2C16% 2C41% 2C-36% 2C-11% 2C12% 2C10% 2C0 </string>
+     <string name = "For SaleClothing Code0"> 6% 2C6% 2C0% 2C3% 2C-4% 2C9% 2C10% 2C3 </string>
+     <int name = "Total Purchases" value = "126" />
+     <string name = "For SaleName3"> Amy </string>
+     <string name = "For SaleClothing Code3"> 62% 2C16% 2C41% 2C-10% 2C-3% 2C12% 2C15% 2C0 </string>
+     <int name = "Inventory Tutorial" value = "50" />
+     <string name = "For SaleName2"> Alvin </string>
+     <string name = "For SaleClothing Code2"> 26% 2C14% 2C36% 2C-53% 2C1% 2C17% 2C1% 2C2 </string>
+     <string name = "For SaleName1"> Gloria </string>
+     <string name = "For SaleClothing Code5"> 36% 2C15% 2C17% 2C-10% 2C10% 2C22% 2C14% 2C0 </string>
+     <string name = "For SaleName0"> Jack </string>
+     <string name = "For SaleClothing Code4"> 64% 2C0% 2C3% 2C-1% 2C5% 2C11% 2C10% 2C0 </string>
+     <string name = "For SaleName6"> Luis </string>
+     <string name = "For SaleClothing Code6"> 11% 2C9% 2C2% 2C-49% 2C-10% 2C17% 2C10% 2C0 </string>
+     <string name = "For SaleName5"> Kevin </string>
+     <string name = "For SaleName4"> Roger </string>
+     <int name = "Layers" value = "0" />
+     <int name = "SGLIB_ANDROID_LOGIN_REQUEST_NUMBER" value = "0" />
+     <int name = "Prestige2" value = "1" />
+     <int name = "Prestige1" value = "1" />
+     <int name = "Prestige0" value = "0" />
+     <int name = "TaskPrevious" value = "6" />
+     <string name = "unity.cloud_userid"> f8cf97c2a30ce41569b8052a3e9503e7 </string>
+     <int name = "DefaultCPM" value = "30061324" />
+     <int name = "Traveling" value = "0" />
+     <int name = "shirt5" value = "1" />
+     <int name = "Prestige3" value = "1" />
+     <int name = "parta9" value = "1" />
+     <int name = "TaskType2" value = "11" />
+     <int name = "parta1" value = "1" />
+     <int name = "TutorialBalloonPrinted" value = "1" />
+     <int name = "parta5" value = "1" />
+     <int name = "parta4" value = "1" />
+     <int name = "shirt 110" value = "1" />
+     <int name = "previousYear" value = "2021" />
+     <int name = "StartedV150" value = "1" />
+     <string name = "EM_APP_INSTALLATION_TIMESTAMP"> - 8585886221751091668 </string>
+     <int name = "SWIndex2" value = "12" />
+     <int name = "StartedV151" value = "1" />
+     <int name = "MainTask" value = "1" />
+     <int name = "hat5959" value = "1" />
+     <string name = "MainTaskID"> 43_88542 </string>
+     <int name = "TravelFoot" value = "0" />
+     <int name = "shirt104" value = "1" />
+     <int name = "shirt106" value = "1" />
+     <int name = "special_offer_1_Time" value = "- 1" />
+     <int name = "shirt107" value = "1" />
+     <int name = "Interior_3_0" value = "1" />
+     <int name = "shirt100" value = "1" />
+     <int name = "shirt103" value = "1" />
+     <int name = "TaskPoints2K" value = "0" />
+     <int name = "Drive timeFollow" value = "0" />
+     <int name = "AdFree" value = "1" />
+     <int name = "SlicesK" value = "1" />
+     <int name = "parta13" value = "1" />
+     <int name = "ExpK" value = "1" />
+     <int name = "PowerupFaster" value = "1" />
+     <int name = "Pong Wins" value = "0" />
+     <int name = "shirt18" value = "1" />
+     <int name = "glasses3" value = "1" />
+     <int name = "Days to Next Offer" value = "8" />
+     <int name = "glasses4" value = "1" />
+     <int name = "Mini GamePlayed71" value = "1" />
+     <int name = "shirt15" value = "1" />
+     <int name = "OccupationUnlocked3" value = "0" />
+     <int name = "Mini GamePlayed72" value = "1" />
+     <int name = "glasses6" value = "1" />
+     <int name = "OccupationUnlocked2" value = "0" />
+     <int name = "OccupationUnlocked1" value = "0" />
+     <int name = "OccupationUnlocked0" value = "1" />
+     <int name = "OccupationUnlocked7" value = "0" />
+     <int name = "shirt10" value = "1" />
+     <int name = "OccupationUnlocked6" value = "0" />
+     <int name = "OccupationUnlocked5" value = "0" />
+     <int name = "OccupationUnlocked4" value = "0" />
+     <int name = "OccupationUnlocked9" value = "0" />
+     <int name = "glasses0" value = "1" />
+     <int name = "OccupationUnlocked8" value = "0" />
+     <int name = "pants17" value = "1" />
+     <int name = "NewOffersUn" value = "0" />
+     <int name = "Screenmanager% 20Fullscreen% 20mode" value = "- 1" />
+     <int name = "Interior_4_0" value = "1" />
+     <int name = "Notification2" value = "1" />
+     <int name = "Interior_4_1" value = "1" />
+     <int name = "Notification1" value = "1" />
+     <int name = "Interior_4_2" value = "1" />
+     <int name = "Exp" value = "9299999" />
+ </map>
