@@ -1,0 +1,45 @@
+[BEGIN]
+
+Load game at least once before Patching
+
+Virtual Beggar Modded Save (Needs Root)
+
+Features:
+
+Ad Free
+
+999M Coins
+
+999M VC
+
+999M Tasks Completed
+
+999M Pong Wins
+
+999M Distance Traveled By Bus
+
+999M Jumping Jack Score 
+
+99 Ultimate Donations
+
+Level 99
+
+All Locations
+
+All Garage Items
+
+-Made by TatsumaYakoshi
+
+https://YouTube.com/TatsumaYakoshi
+
+https://Insstagram.com/TatsumaYakoshi
+
+[COPY_FILE]
+{"file_name":"com.TreetopCrew.VirtualBeggar.v2.playerprefs.bin"}
+
+{"to":"/data/data/com.TreetopCrew.VirtualBeggar/shared_prefs/com.TreetopCrew.VirtualBeggar.v2.playerprefs.xml"}
+
+
+[END]
+
+Save Edited Enjoy 

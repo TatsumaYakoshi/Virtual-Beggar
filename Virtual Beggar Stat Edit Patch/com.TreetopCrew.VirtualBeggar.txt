@@ -1,0 +1,95 @@
+[BEGIN]
+
+Load game at least once before Patching
+
+Virtual Beggar Stats Patch
+
+Features:
+
+Ad Free
+
+Tutorial Completed
+
+999M Coins
+
+999M VC
+
+99 Ultimate Donations
+
+-Made by TatsumaYakoshi
+
+With Entry Help from Levoothan
+
+https://YouTube.com/TatsumaYakoshi
+
+https://Instagram.com/TatsumaYakoshi
+
+[SHARED-PREFERENCES]
+
+{"file_name":"com.TreetopCrew.VirtualBeggar.v2.playerprefs.xml"}
+
+{"insert":"int"}
+{"pref_name":"Prestige0"}
+{"value":"99"}
+
+{"insert":"int"}
+{"pref_name":"Prestige3"}
+{"value":"99"}
+
+{"insert":"int"}
+{"pref_name":"Setelit"}
+{"value":"999999999"}
+
+{"insert":"int"}
+{"pref_name":"PrestigetYht"}
+{"value":"99"}
+
+{"insert":"int"}
+{"pref_name":"Slices"}
+{"value":"999999999"}
+
+{"insert":"int"}
+{"pref_name":"UudetPrestiget"}
+{"value":"99"}
+
+{"insert":"int"}
+{"pref_name":"Prestige2"}
+{"value":"99"}
+
+{"insert":"int"}
+{"pref_name":"Prestige1"}
+{"value":"99"}
+
+{"insert":"int"}
+{"pref_name":"AiempiLevel"}
+{"value":"99"}
+
+{"insert":"int"}
+{"pref_name":"OstetutHuoneet"}
+{"value":"167"}
+
+{"insert":"int"}
+{"pref_name":"Tutorial"}
+{"value":"50"}
+
+{"insert":"int"}
+{"pref_name":"ImperiumTutorial"}
+{"value":"9"}
+
+{"insert":"int"}
+{"pref_name":"TutorialBalloonPainettu"}
+{"value":"1"}
+
+{"insert":"int"}
+{"pref_name":"TutorialPalkattu"}
+{"value":"1"}
+
+{"insert":"int"}
+{"pref_name":"VarastoTutorial"}
+{"value":"50"}
+
+{"insert":"int"}
+{"pref_name":"AdFree"}
+{"value":"1"}
+
+[END]
